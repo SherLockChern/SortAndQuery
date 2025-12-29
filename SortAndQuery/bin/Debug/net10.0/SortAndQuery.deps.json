@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "SortAndQuery/1.0.0": {
+        "runtime": {
+          "SortAndQuery.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SortAndQuery/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+E:\Learn\SortAndQuery\SortAndQuery\bin\Debug\net10.0\SortAndQuery.exe
+E:\Learn\SortAndQuery\SortAndQuery\bin\Debug\net10.0\SortAndQuery.deps.json
+E:\Learn\SortAndQuery\SortAndQuery\bin\Debug\net10.0\SortAndQuery.runtimeconfig.json
+E:\Learn\SortAndQuery\SortAndQuery\bin\Debug\net10.0\SortAndQuery.dll
+E:\Learn\SortAndQuery\SortAndQuery\bin\Debug\net10.0\SortAndQuery.pdb
+E:\Learn\SortAndQuery\SortAndQuery\obj\Debug\net10.0\SortAndQuery.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\SortAndQuery\SortAndQuery\obj\Debug\net10.0\SortAndQuery.AssemblyInfoInputs.cache
+E:\Learn\SortAndQuery\SortAndQuery\obj\Debug\net10.0\SortAndQuery.AssemblyInfo.cs
+E:\Learn\SortAndQuery\SortAndQuery\obj\Debug\net10.0\SortAndQuery.csproj.CoreCompileInputs.cache
+E:\Learn\SortAndQuery\SortAndQuery\obj\Debug\net10.0\SortAndQuery.sourcelink.json
+E:\Learn\SortAndQuery\SortAndQuery\obj\Debug\net10.0\SortAndQuery.dll
+E:\Learn\SortAndQuery\SortAndQuery\obj\Debug\net10.0\refint\SortAndQuery.dll
+E:\Learn\SortAndQuery\SortAndQuery\obj\Debug\net10.0\SortAndQuery.pdb
+E:\Learn\SortAndQuery\SortAndQuery\obj\Debug\net10.0\SortAndQuery.genruntimeconfig.cache
+E:\Learn\SortAndQuery\SortAndQuery\obj\Debug\net10.0\ref\SortAndQuery.dll
