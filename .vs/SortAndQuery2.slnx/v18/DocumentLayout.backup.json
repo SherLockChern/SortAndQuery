@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Learn\\SortAndQuery2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{262A3D13-F544-42EA-A51E-6A220FEA0BCA}|SortAndQuery2\\SortAndQuery2.csproj|e:\\learn\\sortandquery2\\sortandquery2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262A3D13-F544-42EA-A51E-6A220FEA0BCA}|SortAndQuery2\\SortAndQuery2.csproj|solutionrelative:sortandquery2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Learn\\SortAndQuery2\\SortAndQuery2\\Program.cs",
+              "RelativeDocumentMoniker": "SortAndQuery2\\Program.cs",
+              "ToolTip": "E:\\Learn\\SortAndQuery2\\SortAndQuery2\\Program.cs",
+              "RelativeToolTip": "SortAndQuery2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T13:55:23.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
